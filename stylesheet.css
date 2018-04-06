@@ -5,6 +5,11 @@
 header {
   background-color: black;
   height: 30px;
-  color: #red;
+  
+}
+
+header p {
+  color: red;
   opacity: 0.6;
+  
 }
