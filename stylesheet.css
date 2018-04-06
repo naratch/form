@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+
 .background {
   background-image:url(https://prog-8.com/images/html/advanced/html.png);
 }
