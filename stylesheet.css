@@ -4,11 +4,11 @@
 
 header {
   background-color: black;
-  height: 30px;
+  height: 60px;
   
 }
 
-header p {
+header h1 {
   color: white;
   opacity: 0.6;
   
