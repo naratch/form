@@ -11,13 +11,13 @@ body {
 
 header {
   height: 60px;
-  background-color: black;
+  background-color: #54AF59;
   
  
 }
 
 .header-logo h1 {
-  color: #eee;
+  color: white;
   opacity: 0.6;
   padding: 20px 0;
   text-align: center;
