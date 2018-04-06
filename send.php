@@ -2,7 +2,7 @@
 
 $message = "名前：" . $_POST["name"] . "\n本文：" . $_POST["message"];
 
-if (!mb_send_mail("example@example.com", $_POST["subject"], $message, "From:
+if (!mb_send_mail("naratch@hotmail.com", $_POST["subject"], $message, "From:
 " . $_POST["mail"])) {
 exit("error");
 }
