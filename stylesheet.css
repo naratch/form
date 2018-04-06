@@ -2,10 +2,6 @@ body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
 
-.background {
-  background-image:url(https://prog-8.com/images/html/advanced/html.png);
-}
-
 header {
   background-color: black;
   height: 60px;
@@ -15,5 +11,5 @@ header {
 .header-logo h1 {
   color: white;
   opacity: 0.6;
-  
+  padding: 20px 0;
 }
