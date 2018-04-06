@@ -4,13 +4,13 @@ body {
 }
 
 header {
-  background-color: black;
+  background-color: #eee;
   height: 60px;
  
 }
 
 .header-logo h1 {
-  color: white;
+  color: #fff;
   opacity: 0.6;
   padding: 20px 0;
   text-align: center;
