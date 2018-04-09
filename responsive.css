@@ -1,25 +1,19 @@
+/* 既にstylesheet.cssで指定しているCSSに注意しながら進めていきましょう */
+
+/* 共通のレイアウト */
+
+
+
+/* タブレット向けレイアウト */
+@media all and (max-width: 1000px) {
+  
+  
+  
+}
+
+/* モバイル向けレイアウト */
 @media all and (max-width: 670px) {
-
-
-.header-menu {
-    display:none;
-  }
-    
-.header-logo h1 {
-    font-size: 20px;
-}
-    
-.menu-icon {
-    display:block;
-  }
   
-.front-contents {
-    text-align: left;
-}
-    
-.social-media {
-    text-align: left;
   
-}
-
+  
 }
