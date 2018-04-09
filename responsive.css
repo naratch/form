@@ -1,5 +1,6 @@
 @media all and (max-width: 670px) {
 
+.
 .header-menu {
     display:none;
   }
@@ -7,4 +8,13 @@
 .header-logo h1 {
     font-size: 18px;
 }
+
+.social-media {
+  text-align: left;
+  color: white;
+  background-color: black;
+  height: 200px;
+  
+}
+
 }
