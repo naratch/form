@@ -9,11 +9,12 @@
     font-size: 20px;
 }
 
+.front-contents {
+    text-align: left;
+}
+    
 .social-media {
-  text-align: left;
-  color: white;
-  background-color: black;
-  height: 200px;
+  width: 100%;
   
 }
 
